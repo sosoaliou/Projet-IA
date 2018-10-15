@@ -1,0 +1,18 @@
+git add : permet de rajouter un fichier.
+git status : permet de voir le statut du répertoire git.
+git commit : permet de prendre un instantanée du répertoire avant l'envoie.
+git push : envoie les fichiers sur github.
+git pull : réceptionne les nouveaux fichier dans le répertoire github.
+git remote add origin https://github.com/Bellydech/Technical-Project.git :
+ajoute l'origine c'est à dire l'adresse du répertoire internet.
+
+
+ETAPE 
+
+1° git add FILE
+2° git status (vérifier que le fichier est bien sur le répertoire)
+3° git commit -m "Msg"
+4° git pull
+5° git push -u origin master
+...
+
